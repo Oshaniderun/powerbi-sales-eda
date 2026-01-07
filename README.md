@@ -20,5 +20,4 @@ This project focuses on performing exploratory data analysis on a retail sales d
 ![Dashboard Overview](dashboard.png)
 ![Dashboard Filters](dashboard_with_filters.png)
 
-## Dataset
-Retail sales dataset used for academic and learning purposes.
+
